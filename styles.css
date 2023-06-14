@@ -1,0 +1,62 @@
+body {
+  background-color: #d8c5dd;
+    background:url(./cafe2.jpg)no-repeat;
+    font-family: sans-serif,Rubik, Arial;
+  color: #121310;
+    
+}
+
+.v{
+  position:absolute;
+  top: 70px;
+  right: 280px;
+  font-size: 149%;
+  font-family:'Times New Roman', Times,serif;
+  
+}
+
+form {
+  margin-bottom: 20px;
+  max-width: 500px;
+  padding: 50px;
+  border: 20px solid #a8338f;
+  right: 300px;;
+}
+
+.inilogin{
+  position:absolute;
+  top: 30px;
+  right:150px;
+  background-color: #2a2c2b;
+}
+
+
+label {
+  display: block;
+  margin-bottom: 9px;
+  background-color: #d3a4cb;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="time"] {
+  width: 50%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+input[type="button"] {
+  padding: 10px;
+  background-color: #83197a69;
+  color: #201d1f;
+  border: none;
+  cursor: pointer;
+}
+
+#citasContainer {
+  border: 5px solid #750f53;
+  margin-bottom: 20px;
+  max-width: 500px;
+  padding: 50px;
+}
+
